@@ -1,12 +1,20 @@
 {
   "name": "escho",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorikkornev/escho-work.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jorikkornev/escho-work/issues"
+  },
+  "homepage": "https://github.com/Jorikkornev/escho-work#readme",
+  "description": ""
 }
