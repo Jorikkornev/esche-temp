@@ -1,5 +1,9 @@
 build
+
 *.zip
+
 *.log
+
 *.psd
+
 node_modules
