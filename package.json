@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jorikkornev/gulp-template.git"
+    "url": "git+https://github.com/Jorikkornev/esche-temp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jorikkornev/gulp-template/issues"
+    "url": "https://github.com/Jorikkornev/esche-temp/issues"
   },
-  "homepage": "https://github.com/Jorikkornev/gulp-template#readme"
+  "homepage": "https://github.com/Jorikkornev/esche-temp#readme"
 }
